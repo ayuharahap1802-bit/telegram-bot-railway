@@ -1,9 +1,0 @@
-{
-    "welcome": "Welcome {name}!",
-    "help": "Here is the available help...",
-    "promo": "Latest promo...",
-    "stats": "Bot statistics...",
-    "not_found": "Command not found",
-    "no_permission": "You don't have permission",
-    "error": "An error occurred"
-}
