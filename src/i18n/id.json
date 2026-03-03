@@ -1,0 +1,7 @@
+{
+  "welcome": "Selamat datang di Bot Promo!",
+  "promo_message": "⚽️ PROMO GILA! CASHBACK 100% MIX PARLAY ⚽️\n\nSatu Tim Meleset? Modal Kami Balikin Utuh!\n\n📋 SYARAT:\n• Bet: Min Rp 10.000\n• Tim: Min 5 tim (TODAY)\n• Odds: Min 1.80/tim\n• Provider: Sport 1/2\n\n💡 ATURAN:\n• 1 tim Lose Full\n• Sisanya Win Full\n• Max Rp 300.000/hari\n\n⚠️ WAJIB FOLLOW:\n🤖 BOT OFFICIAL (@bolapelangi2_bot)\n📈 PREDIKSI JITU ({prediction_link})\n📢 CHANNEL WHATSAPP ({whatsapp_link})\n📢 CHANNEL TELEGRAM ({telegram_link})\n🟢 KLAIM BONUS ({claim_link})\n\n📌 Catatan: 1x/hari, no IP sama, no safety bet\n🚀 GASPOLL TERUS BOSKU!",
+  "unauthorized": "⛔ Anda tidak memiliki izin untuk command ini.",
+  "maintenance_mode": "🔧 Bot sedang dalam maintenance. Silakan coba lagi nanti.",
+  "error_occurred": "❌ Terjadi kesalahan. Silakan coba lagi."
+}
