@@ -1,0 +1,9 @@
+{
+    "welcome": "Selamat datang {name}!",
+    "help": "Berikut bantuan yang tersedia...",
+    "promo": "Promo terbaru...",
+    "stats": "Statistik bot...",
+    "not_found": "Perintah tidak ditemukan",
+    "no_permission": "Anda tidak memiliki izin",
+    "error": "Terjadi kesalahan"
+}
