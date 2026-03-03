@@ -1,0 +1,7 @@
+{
+  "welcome": "Welcome to Promo Bot!",
+  "promo_message": "⚽️ CRAZY PROMO! 100% MIX PARLAY CASHBACK ⚽️\n\nOne Team Misses? We Return Your Full Bet!\n\n📋 REQUIREMENTS:\n• Bet: Min Rp 10,000\n• Teams: Min 5 teams (TODAY)\n• Odds: Min 1.80/team\n• Provider: Sport 1/2\n\n💡 RULES:\n• 1 team Lose Full\n• Others Win Full\n• Max Rp 300,000/day\n\n⚠️ MUST FOLLOW:\n🤖 OFFICIAL BOT (@bolapelangi2_bot)\n📈 PREDICTION CHANNEL ({prediction_link})\n📢 WHATSAPP CHANNEL ({whatsapp_link})\n📢 TELEGRAM CHANNEL ({telegram_link})\n🟢 CLAIM BONUS ({claim_link})\n\n📌 Note: 1x/day, no same IP, no safety bet\n🚀 LET'S GO BOSS!",
+  "unauthorized": "⛔ You don't have permission to use this command.",
+  "maintenance_mode": "🔧 Bot is under maintenance. Please try again later.",
+  "error_occurred": "❌ An error occurred. Please try again."
+}
