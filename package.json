@@ -11,8 +11,10 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "eslint src/",
-    "postinstall": "npm run migrate && npm run seed",
-    "build": "echo 'Build completed'"
+    "postinstall": "node src/database/migrationRunner.js && node src/database/seed.js",
+    "build": "echo 'Build completed'",
+    "clean": "rm -rf node_modules package-lock.json data/*.db",
+    "rebuild": "npm run clean && npm install"
   },
   "dependencies": {
     "telegraf": "^4.15.0",
@@ -35,6 +37,7 @@
     "eslint": "^8.49.0"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x",
+    "npm": ">=9.0.0"
   }
 }
