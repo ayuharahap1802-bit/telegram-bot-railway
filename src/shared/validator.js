@@ -26,4 +26,4 @@ class Validator {
   }
 }
 
-module.exports = { Valid
+module.exports = { Validator };
