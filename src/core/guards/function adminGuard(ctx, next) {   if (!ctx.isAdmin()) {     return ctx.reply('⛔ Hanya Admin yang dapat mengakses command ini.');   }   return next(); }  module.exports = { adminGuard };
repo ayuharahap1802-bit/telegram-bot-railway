@@ -1,0 +1,8 @@
+function adminGuard(ctx, next) {
+  if (!ctx.isAdmin()) {
+    return ctx.reply('⛔ Hanya Admin yang dapat mengakses command ini.');
+  }
+  return next();
+}
+
+module.exports = { adminGuard };
